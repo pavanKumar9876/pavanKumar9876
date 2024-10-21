@@ -8,7 +8,6 @@ I am a final year B.Tech student at Gayatri Vidya Parishad College of Engineerin
 
 ## Interests
 
-- **Coding:** Java, C
 - **Machine Learning:** Keen interest and actively learning
 
 ## Skills
